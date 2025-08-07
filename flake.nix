@@ -29,6 +29,11 @@
           propagatedBuildInputs = with pkgs.python3Packages; [
             setuptools
             wheel
+            rich
+            pygments
+            friendly-traceback
+            friendly-styles
+            platformdirs
           ];
 
        };
