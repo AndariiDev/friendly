@@ -33,9 +33,12 @@
             colorama
             pygments
             # friendly-traceback
-            friendly-styles
+            # friendly-styles
             platformdirs
           ];
+
+          #Skip circular dependency check
+          pythonRuntimeDepsCheck = false;
 
        };
 
