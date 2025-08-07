@@ -33,7 +33,7 @@
             colorama
             pygments
             # friendly-traceback
-            friendly-styles
+            # friendly-styles
             platformdirs
           ];
 
