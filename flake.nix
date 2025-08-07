@@ -20,7 +20,7 @@
             owner = "friendly-traceback";
             repo = "friendly";
             rev = "fe5d3a2";
-            sha256 = "";
+            sha256 = "sha256-7NNfrZnfEgPICMa8acY1rBhE2IE6Em+J2fANR0Ez208=";
           };
 
           pyproject = true;
